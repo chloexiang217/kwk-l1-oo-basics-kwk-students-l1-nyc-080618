@@ -1,4 +1,5 @@
-
+class Book
+  def initialize 
 
 # describe 'Book' do
 #   describe '::new' do
